@@ -1,0 +1,99 @@
+{"level":"info","message":"received message: 76561198006943389:> red","timestamp":"2016-09-14T12:07:53.656Z"}
+{"level":"info","message":"received message: 76561198006943389:> red","timestamp":"2016-09-14T12:29:28.584Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-14T12:38:30.335Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-14T12:39:49.213Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-14T12:39:59.658Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-14T12:40:18.383Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-14T12:42:03.173Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-14T12:43:33.466Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-14T12:44:27.669Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-14T12:45:53.193Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-14T12:47:08.962Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-14T12:48:36.611Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-14T12:48:55.527Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-14T12:49:14.925Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-14T13:00:52.432Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-14T13:01:29.166Z"}
+{"level":"info","message":"127.0.0.1 - - [Wed, 14 Sep 2016 13:01:29 GMT] \"GET /api/users/me HTTP/1.1\" 401 408 \"http://localhost:9000/\" \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36\"\n","timestamp":"2016-09-14T13:01:29.574Z"}
+{"level":"info","message":"127.0.0.1 - - [Wed, 14 Sep 2016 13:01:30 GMT] \"GET /favicon.png HTTP/1.1\" 200 - \"http://localhost:9000/\" \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36\"\n","timestamp":"2016-09-14T13:01:30.073Z"}
+{"level":"info","message":"127.0.0.1 - - [Wed, 14 Sep 2016 13:01:30 GMT] \"GET /api/stats HTTP/1.1\" 200 - \"http://localhost:9000/\" \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36\"\n","timestamp":"2016-09-14T13:01:30.834Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-14T13:03:06.819Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-14T13:04:35.462Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-14T13:04:51.039Z"}
+{"level":"info","message":"127.0.0.1 - - [Wed, 14 Sep 2016 13:04:52 GMT] \"GET /favicon.png HTTP/1.1\" 304 - \"http://localhost:9000/\" \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36\"\n","timestamp":"2016-09-14T13:04:52.848Z"}
+{"level":"info","message":"127.0.0.1 - - [Wed, 14 Sep 2016 13:04:53 GMT] \"GET /api/stats HTTP/1.1\" 200 - \"http://localhost:9000/\" \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36\"\n","timestamp":"2016-09-14T13:04:53.029Z"}
+{"level":"info","message":"127.0.0.1 - - [Wed, 14 Sep 2016 13:04:57 GMT] \"GET /favicon.png HTTP/1.1\" 304 - \"http://localhost:9000/\" \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36\"\n","timestamp":"2016-09-14T13:04:57.157Z"}
+{"level":"info","message":"127.0.0.1 - - [Wed, 14 Sep 2016 13:04:57 GMT] \"GET /api/stats HTTP/1.1\" 304 - \"http://localhost:9000/\" \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36\"\n","timestamp":"2016-09-14T13:04:57.678Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-14T13:05:47.737Z"}
+{"level":"info","message":"127.0.0.1 - - [Wed, 14 Sep 2016 13:05:49 GMT] \"GET /favicon.png HTTP/1.1\" 304 - \"http://localhost:9000/\" \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36\"\n","timestamp":"2016-09-14T13:05:49.353Z"}
+{"level":"info","message":"127.0.0.1 - - [Wed, 14 Sep 2016 13:05:49 GMT] \"GET /api/stats HTTP/1.1\" 200 - \"http://localhost:9000/\" \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36\"\n","timestamp":"2016-09-14T13:05:49.495Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-14T13:06:02.133Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-14T16:25:23.232Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-14T16:27:41.385Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T00:25:51.744Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T00:26:22.184Z"}
+{"level":"info","message":"76561198006943389 has set a notification for Base at 1 players","timestamp":"2016-09-15T00:55:32.572Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T01:16:00.154Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T03:24:13.081Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T03:27:40.285Z"}
+{"level":"info","message":"76561197994010989 has set a notification for Branzone - Sydney at 3 players","timestamp":"2016-09-15T05:47:38.793Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T09:43:33.953Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T10:01:32.050Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T11:15:39.889Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T11:18:21.348Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T11:29:30.478Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T11:29:51.845Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T11:30:30.639Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T11:31:52.489Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T11:33:01.806Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T11:34:33.676Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T11:34:59.616Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T11:36:46.870Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T11:48:43.642Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T11:49:19.587Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T12:03:20.455Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T12:14:45.114Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T12:25:54.403Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T14:06:46.090Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T14:13:20.957Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-15T23:51:10.995Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-16T07:00:35.011Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-16T07:02:30.262Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-16T07:02:48.541Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-16T07:03:30.017Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-16T07:03:48.635Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-16T07:04:45.063Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-16T07:05:03.402Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-16T07:05:52.647Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-16T07:06:01.330Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-16T07:06:16.234Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-16T07:06:45.076Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-16T07:07:33.922Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-16T07:11:28.119Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-16T07:11:36.910Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-16T12:08:23.398Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-16T12:12:54.475Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-16T12:54:32.519Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-17T01:42:06.677Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-17T02:22:58.391Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-17T02:23:34.298Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-17T02:24:07.920Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-17T02:24:47.939Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-17T02:26:38.196Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-17T02:50:33.491Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-17T02:54:03.412Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-17T02:54:14.704Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-17T03:01:31.764Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-17T03:01:51.829Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-17T03:01:57.283Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-17T03:02:10.631Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-17T03:02:23.271Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-17T03:12:07.999Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-17T03:12:26.527Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-17T03:13:48.546Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-17T03:14:39.457Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-17T03:15:22.502Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-09-22T12:19:35.457Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-10-29T15:52:04.510Z"}
+{"level":"info","message":"logged into steam","timestamp":"2016-10-29T16:08:13.666Z"}
+{"level":"info","message":"76561198021350868 has set a notification for Branzone - Sydney at 2 players","timestamp":"2016-10-30T07:19:19.973Z"}
